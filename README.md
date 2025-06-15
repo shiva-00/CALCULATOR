@@ -24,9 +24,11 @@ This project demonstrates core programming concepts, including user input handli
 Clone the Repository:
 
 -> git clone https://github.com/your_user_name/CALCULATOR.git
+
 -> cd calculator-app
 
 Run the application:
+
 -> dotnet run
 
 Author:
